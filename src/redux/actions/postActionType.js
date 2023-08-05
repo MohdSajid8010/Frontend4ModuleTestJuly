@@ -1,0 +1,5 @@
+export const FETCH_POST_REQ="FETCH_POST_REQ";
+export const FETCH_POST_SUCC="FETCH_POST_SUCC";
+export const FETCH_POST_FAIL="FETCH_POST_FAIL";
+
+export const SELECTED_POST="SELECTED_POST";
